@@ -1,6 +1,8 @@
 ### The Go Programming Language
 This repository is charting my progress through my copy of ["The Go Programming Language"](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440).  Each top level folder corresponds to a chapter of the book.
-![The Go Programming Language book](https://paika.tech/assets/golang-book.jpg)
+
+
+![The Go Programming Language book](https://paika.tech/assets/projects/golang-book.jpg)
 
 
 To run any exercise:
