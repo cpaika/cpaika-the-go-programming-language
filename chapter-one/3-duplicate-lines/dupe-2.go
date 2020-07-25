@@ -54,7 +54,6 @@ func printDupes(counts map[string]int) {
 			fmt.Printf("%d  %s\n", n, line)
 		}
 	}
-
 }
 
 //golang has a built in error type
